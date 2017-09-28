@@ -1,9 +1,9 @@
 {
     "name": "material-theme-static",
-    "displayName": "Material-Theme-Static",
+    "displayName": "Material Theme Static",
     "description": "A material theme that's static, never update",
     "version": "0.0.1",
-    "publisher": "qegqscxo4imnipva5ry7i26bn2ejkrlslclursxp2y45tdfsgfxa",
+    "publisher": "nisgrak",
     "engines": {
         "vscode": "^1.16.0"
     },
